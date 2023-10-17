@@ -1,0 +1,14 @@
+
+button{
+    text-align: center;
+    margin: auto;
+}
+h2 {
+    margin: 1em 0;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+  }
