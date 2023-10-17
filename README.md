@@ -9,8 +9,8 @@ To use the application, simply click the "Generate Quote" button to generate a n
 To install the application, simply clone the repository and open the index.html file in your web browser:
 
 ```
-git clone https://github.com/your-username/random-quote-generator.git
-cd random-quote-generator
+git clone https://github.com/souliN02/APIPractice.git
+cd APIPractice
 open index.html
 ```
 
